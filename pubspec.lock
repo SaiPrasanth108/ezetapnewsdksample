@@ -49,6 +49,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.0.6"
+  ezetap_sdk:
+    dependency: "direct main"
+    description:
+      name: ezetap_sdk
+      sha256: "50638b030474c82e55b321e3f855d9ebba3a24f8165a2d804ac4cc92cbf57d66"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.1.5"
   fake_async:
     dependency: transitive
     description:
@@ -186,3 +194,4 @@ packages:
     version: "2.1.4"
 sdks:
   dart: ">=3.0.5 <4.0.0"
+  flutter: ">=1.20.0"
